@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1025374613857",
+    "project_id": "fag-si-yan",
+    "storage_bucket": "fag-si-yan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025374613857:android:14a191af247d01d2611520",
+        "android_client_info": {
+          "package_name": "com.example.aula09_eventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025374613857-6o60pb03q7nb8bomgjq7su7jju9i703k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1MOYzjmBnO41wp2ALvueZRxFcAtYkLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025374613857-6o60pb03q7nb8bomgjq7su7jju9i703k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025374613857-seusv4r7vlnujkbjtm7vtcplvdr5bjdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aula09Eventos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
